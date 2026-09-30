@@ -1,0 +1,16 @@
+{
+  "name": "reflex",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A Managed Deep Agent project.",
+  "dependencies": {
+    "@spectrum-ts/imessage": "^12.10.1",
+    "heif2jpeg": "^0.1.6",
+    "managed-deepagents": "0.8.3",
+    "spectrum-ts": "^12.10.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1"
+  }
+}
