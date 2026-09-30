@@ -8,6 +8,10 @@ A [Managed Deep Agent](https://docs.langchain.com/langsmith/managed-deep-agents-
 reached over iMessage through [Photon](https://photon.codes), wired up as a
 custom MDA HTTP channel.
 
+## Demo
+
+[![HTTP Channels for Managed Deep Agents](https://img.youtube.com/vi/6v0Fmsi4Ldk/maxresdefault.jpg)](https://www.youtube.com/watch?v=6v0Fmsi4Ldk)
+
 ## How it works
 
 ```text
